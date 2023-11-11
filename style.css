@@ -1,0 +1,35 @@
+body {
+    background-color: #FDB8C0;
+    font-family: 'Sawarabi Mincho', sans-serif;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.title {
+    color: #A890F0; 
+    text-shadow: 2px 2px 4px #000000;
+    margin-bottom: 50px;
+}
+
+#name-container {
+    margin-top: 50px;
+    font-size: 36px;
+    color: #FDB8C0;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+#generate-btn {
+    margin-top: 20px;
+    padding: 15px;
+    font-size: 18px;
+    border-radius: 30px; 
+    border: none;
+    background-color: #A890F0;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+    cursor: pointer;
+}
